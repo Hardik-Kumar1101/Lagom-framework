@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="project-alex,project-alex.lagom-internal-meta-project-cassandra,project-alex.lagom-internal-meta-project-kafka,project-alex.lagom-internal-meta-project-service-locator,project-alex.project-alex-api,project-alex.project-alex-impl,project-alex.project-alex-stream-api,project-alex.project-alex-stream-impl,project-alex_6316" />
+  </component>
+</project>
